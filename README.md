@@ -47,11 +47,11 @@ You may have Keras, Tensorflow and Scikit-Learn but you may need to install Pymo
 ```bibtex
 @misc{NSGA-2-for-Feature-Selection,
   author = {Mahdis Rahmani},
-  title = {Using NSGA-2 algorithms for feature selection in neural networks performing classification},
+  title = {Using NSGA-2 algorithm for feature selection in neural networks performing classification},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/smrrazavian/child_abuse_detection](https://github.com/mahdis-repo/NSGA-2-for-Feature-Selection}}
+  howpublished = {\url{https://github.com/mahdis-repo/NSGA-2-for-Feature-Selection}}
 }
 ```
 ## Contributing
