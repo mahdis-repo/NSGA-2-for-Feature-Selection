@@ -42,6 +42,18 @@ You may have Keras, Tensorflow and Scikit-Learn but you may need to install Pymo
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 -->
+## 📃 Citation
+
+```bibtex
+@misc{NSGA-2-for-Feature-Selection,
+  author = {Mahdis Rahmani},
+  title = {Using NSGA-2 algorithms for feature selection in neural networks performing classification},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/smrrazavian/child_abuse_detection](https://github.com/mahdis-repo/NSGA-2-for-Feature-Selection}}
+}
+```
 ## Contributing
 
 Contributions are always welcomed!
